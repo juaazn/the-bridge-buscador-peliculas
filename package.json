@@ -1,0 +1,20 @@
+{
+  "name": "peliculas",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "vamos": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaazn/the-bridge-buscador-peliculas.git"
+  },
+  "author": "Juan Diego Acosta Liscano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juaazn/the-bridge-buscador-peliculas/issues"
+  },
+  "homepage": "https://github.com/juaazn/the-bridge-buscador-peliculas#readme"
+}
